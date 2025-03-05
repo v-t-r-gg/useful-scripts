@@ -1,4 +1,4 @@
-# gimp Layer Merge Scripts
+# gimp layer merge scripts
 
 2 gimp plugins to merge layers efficiently (applying filters or layers gif frames)
 
